@@ -1,0 +1,123 @@
+body {
+        color: black ;
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather', serif:
+    }
+        .bottom-cloud{
+        position: absolute;
+        top: 250px;
+        margin-left: 80px;
+    }
+.top-cloud{
+        position: absolute;
+        margin-right: 110px;
+    }
+
+
+h1 {
+        color: #66BFBF;
+        font-size: 5.625 rem;
+        margin: 50px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+    }
+       
+h2 {
+        color:#66BFBF;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        font-weight: normal;
+ }
+h3 {
+    color:#66BFBF;
+    font-family: 'Montserrat, sans-serif;
+}
+.top{
+    margin-top: 115 ;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative; 
+    padding-top: 100px;
+}
+p{
+    Line-height: 2.5;
+    color: black;
+    font-weight: 400;
+}
+
+.middle-container {
+    margin: 100px 0;
+
+}
+
+.bottom-container {
+
+line-height: 2;
+}
+
+.skill-row { 
+    width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+}
+
+.pro{
+text-decoration: underline;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+    
+}
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+.bottom-cloud {
+     position: absolute;
+left: 300px;
+bottom: 300px;
+}
+
+.code-img { 
+    width: 35%;
+float: left;
+margin-right: 30px;
+border-radius: 100%;
+}
+
+.chilli-img { 
+    width: 25%;
+float: right;
+margin-left: 30px;
+border-radius: 50%;
+}
+.proff{
+    padding-top: 30px;
+    border-radius:100%;
+}
+.btn{
+    position: relative;
+    top: 50px;
+}
+.contact-message{
+    line-height: 2;
+}
+/* .love-hoat{
+    padding: 4;
+} */
+h6{
+
+}
+.hack{
+    border-radius: 5%;
+}
+.rama{
+    font-weight: bolder;
+}
